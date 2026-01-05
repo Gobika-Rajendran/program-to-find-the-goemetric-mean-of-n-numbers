@@ -1,0 +1,1 @@
+# program-to-find-the-goemetric-mean-of-n-numbers
